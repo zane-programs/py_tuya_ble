@@ -14,14 +14,9 @@ A standalone Python library for communicating with Tuya Smart devices over Bluet
 
 ## Installation
 
-### From PyPI (when published)
-```bash
-pip install py_tuya_ble
-```
-
 ### From Source
 ```bash
-git clone https://github.com/yourusername/py_tuya_ble.git
+git clone https://github.com/zane-programs/py_tuya_ble.git
 cd py_tuya_ble
 pip install -e .
 ```
